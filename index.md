@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Shayaan1234/NeighborhoodProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Concourse Neghborhood
 
 <iframe src="ConcourseMap" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
