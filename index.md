@@ -9,14 +9,20 @@ Concourse is a neighborhood in the southwestern section of the New York City bor
 ### Demographics
 
 (10451)
-47,798 Population
-1.03 Square Miles
-46,447.36 People Per Square Mile
+
+-47,798 Population
+
+-1.03 Square Miles
+
+-46,447.36 People Per Square Mile
 
 (10452)
-76,078 Population
-0.99 Square Miles
-76,975.77 People Per Square Mile
+
+-76,078 Population
+
+-0.99 Square Miles
+
+-76,975.77 People Per Square Mile
 
 AirBnB Data: There are 49 AirBnb Listings in
 Concourse ranging from a private room to an entire house.
@@ -24,9 +30,12 @@ Concourse ranging from a private room to an entire house.
 ### Concourse Neighborhood Summary 
 
 Concourse → Overall Niche Grade: B
+
 a. Safety: C- (Higher assault and robbery crimes than national average.)
+
 b. Transportation: B+ (Multiple forms of reliable transportation and city parking
 available.)
+
 c. Attractions/Activities: A (Multiple parks, restaurants, bars, activities, and nightlife
 events.)
 
