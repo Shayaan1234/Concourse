@@ -6,7 +6,7 @@ Concourse is a neighborhood in the southwestern section of the New York City bor
 
 ```markdown
 
-### Demographics
+# Demographics
 
 (10451)
 47,798 Population
@@ -21,7 +21,7 @@ Concourse is a neighborhood in the southwestern section of the New York City bor
 AirBnB Data: There are 49 AirBnb Listings in
 Concourse ranging from a private room to an entire house.
 
-### Concourse Neighborhood Summary 
+# Concourse Neighborhood Summary 
 
 Concourse → Overall Niche Grade: B
 a. Safety: C- (Higher assault and robbery crimes than national average.)
@@ -39,7 +39,8 @@ safety and accessibility to local attractions. One feature which is more complic
 because, while price is important, we must still consider the demand for luxury visits, which are more
 desirable in a short-term destination (which Airbnb specializes in) than an actual living situation.
 
-### AirBnB Neighborhood Analysis
+# AirBnB Neighborhood Analysis
+
 The Bronx makes up 1,091 of the 48,895 listings in New York City. In the Bronx
 amongst all neighborhoods with Airbnbs, the average cost of staying at an Airbnb is
 approximately $87.50, compared to the average cost of renting a Airbnb in the city being
