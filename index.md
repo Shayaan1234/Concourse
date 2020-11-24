@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<img src="framedMap.png">
+<img src="ConcourseNew.png">
 
 Concourse is a neighborhood in the southwestern section of the New York City borough of the Bronx. Its boundaries, starting from the north and moving clockwise, are East 169th Street to the north, Grand Concourse to the east, the Metro-North Railroad's Hudson Line to the south, and Jerome Avenue to the west. The neighborhood is divided into three subsections: West Concourse, East Concourse, and Concourse Village.
 
