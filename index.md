@@ -55,4 +55,9 @@ Airbnbs in the Bronx as a whole. The lower standard deviation of the concourse d
 that the costs for renting an Airbnb is mostly lower than a 100 dollars as compared to the entirety
 of the Bronx that has outliers in it which increases the standard deviation.
 
+<img src="Figure_1.png">
+<img src="Figure_2.png">
+<img src="Figure_3.png">
+<img src="Figure_4.png">
+
 <iframe src="airbnblocations.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
