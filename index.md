@@ -6,7 +6,7 @@
 
 Concourse is a neighborhood in the southwestern section of the New York City borough of the Bronx. Its boundaries, starting from the north and moving clockwise, are East 169th Street to the north, Grand Concourse to the east, the Metro-North Railroad's Hudson Line to the south, and Jerome Avenue to the west. The neighborhood is divided into three subsections: West Concourse, East Concourse, and Concourse Village.
 
-# Demographics
+### Demographics
 
 (10451)
 47,798 Population
@@ -21,7 +21,7 @@ Concourse is a neighborhood in the southwestern section of the New York City bor
 AirBnB Data: There are 49 AirBnb Listings in
 Concourse ranging from a private room to an entire house.
 
-# Concourse Neighborhood Summary 
+### Concourse Neighborhood Summary 
 
 Concourse → Overall Niche Grade: B
 a. Safety: C- (Higher assault and robbery crimes than national average.)
@@ -39,7 +39,7 @@ safety and accessibility to local attractions. One feature which is more complic
 because, while price is important, we must still consider the demand for luxury visits, which are more
 desirable in a short-term destination (which Airbnb specializes in) than an actual living situation.
 
-# AirBnB Neighborhood Analysis
+### AirBnB Neighborhood Analysis
 
 The Bronx makes up 1,091 of the 48,895 listings in New York City. In the Bronx
 amongst all neighborhoods with Airbnbs, the average cost of staying at an Airbnb is
@@ -58,7 +58,9 @@ of the Bronx that has outliers in it which increases the standard deviation.
 <img src="Figure_3.png">
 <img src="Figure_4.png">
 
-# AirBnB Locations 
+### AirBnB Locations 
 <dl>
 <iframe src="airbnblocations.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
+
+### Thanks for checking out Concourse! [Click here to head back to the Bronx, and choose another neighborhood.](https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
