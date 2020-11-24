@@ -6,10 +6,6 @@ Concourse is a neighborhood in the southwestern section of the New York City bor
 
 ```markdown
 
-# Header 1
-## Header 2
-### Header 3
-
 ### Demographics
 
 (10451)
