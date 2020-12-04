@@ -65,8 +65,12 @@ of the Bronx that has outliers in it which increases the standard deviation.
 
 <img src="Figure_1.png" height = "250" width="400">
 Figure 1. The box plot helps to demonstrate the quartiles of price in both the Bronx and Concourse, the data however does not include the outliers of the Bronx Price distribution. 
+
+
 <img src="Figure_2.png" height = "250" width="400">
 <img src="Figure_3.png" height = "250" width="400">
+
+
 Figure 2 and Figure 3.The pie charts show the percentage of each type of accommodation in the respective listings of each dataframe.
 <img src="Figure_4.png" height = "250" width="400"> 
 Figure 4. The plot bar shows the Review per month for both the Bronx and Concourse. There are no error bars included because the error bars would have went under 0.
