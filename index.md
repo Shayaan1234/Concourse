@@ -50,14 +50,15 @@ desirable in a short-term destination (which Airbnb specializes in) than an actu
 
 ### AirBnB Neighborhood Analysis
 
-The Bronx makes up 1,091 of the 48,895 listings in New York City. In the Bronx
-amongst all neighborhoods with Airbnbs, the average cost of staying at an Airbnb is
+-The Bronx makes up 1,091 of the 48,895 listings in New York City. 
+-In the Bronx amongst all neighborhoods with Airbnbs, the average cost of staying at an Airbnb is
 approximately $87.50, compared to the average cost of renting a Airbnb in the city being
 approximately $152.72. Concourse makes up 50 of the 1,091 listings in the Bronx.
 
-Within the Bronx, the mean prices in Bronx neighborhoods are typically under $100
+-Within the Bronx, the mean prices in Bronx neighborhoods are typically under $100
 though Riverdale is an anomalous neighborhood with an average cost of rent of over $400.
-The program shows that the average cost of an Airbnb in Concourse is less than the cost of
+
+-The program shows that the average cost of an Airbnb in Concourse is less than the cost of
 Airbnbs in the Bronx as a whole. The lower standard deviation of the concourse data suggests
 that the costs for renting an Airbnb is mostly lower than a 100 dollars as compared to the entirety
 of the Bronx that has outliers in it which increases the standard deviation.
